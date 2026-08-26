@@ -1,0 +1,6 @@
+{
+  "name": "RetailPulse Edge",
+  "description": "Offline-First Edge AI Retail Intelligence Platform. Observe → Reconcile → Predict → Decide → Explain → Act → Verify.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
